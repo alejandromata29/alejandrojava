@@ -1,0 +1,23 @@
+body {
+    background-color: palegoldenrod;
+    background-image: URL(https://thumbs.gfycat.com/HatefulSeveralIbis-max-1mb.gif);
+    color: #fff;
+}
+
+.contenidogral {
+    display: flex;
+    margin: 85px 85px 0px 85px;
+    justify-content: center;
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+}
+
+#calculadora, #tablas {
+    text-align: center;
+    padding: 20px 60px 0px 60px;
+    background-color: rgba(12, 42, 13, 0.7);
+    height: 400px;
+}
