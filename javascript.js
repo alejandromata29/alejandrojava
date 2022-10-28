@@ -1,6 +1,3 @@
-
-alert("Consultar procedimiento en la terminal de javascript");
-
 let hora_de_inicio = 11;
 console.log(`Hora inicial: ${hora_de_inicio}`);
 
