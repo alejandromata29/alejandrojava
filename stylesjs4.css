@@ -1,0 +1,27 @@
+body {
+    background-color:cadetblue;
+    font-family: fantasy;
+}
+
+h1 {
+    text-align: center;
+    color: darkslategrey;
+    font-size: 40px;
+}
+article {
+    display: flex;
+    text-align: center;
+}
+
+#divisorescontenido, #imagenescontenido {
+    padding: 100px 118px 118px 118px;
+}
+
+label, input {
+    margin: 10px 0;
+    font-size: 20px;
+}
+
+select {
+    margin: 0px 20px;
+}
